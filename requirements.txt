@@ -1,0 +1,15 @@
+numpy
+opencv-python
+Pillow
+mtcnn
+tensorflow
+PyQt5
+pandas
+scipy
+sqlalchemy
+matplotlib
+flask
+flask-socketio
+requests
+twilio
+mediapipe
